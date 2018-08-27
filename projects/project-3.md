@@ -25,5 +25,5 @@ All the subscriptions are shown in a ListView, and the monthly payment is shown 
 Users can click the ADD SUBSCRIPTION button to go to the right screen. By clicking SAVE button, the subscription save to the SQLite as well as Google Calendar.
 Users can also modify their subscriptions by click the ListView, and the app will go to the Edit screen which is similar to the Add Subscription screen.  
 
-Source: <a href="https://github.com/dawei-yang/EE396_E13"><i class="large github icon "></i>dawei-yang/EE396_E13</a>
+Source code: <a href="https://github.com/dawei-yang/EE396_E13"><i class="large github icon "></i>dawei-yang/EE396_E13</a>
 
