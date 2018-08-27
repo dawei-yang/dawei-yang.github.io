@@ -1,25 +1,18 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pacman_open.png
 title: Vacay
-permalink: projects/vacay
+
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C #
+  - Unity
+summary:  Recreating game Pacman for in Unity in EE 491F.
+A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pacman.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
-
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+  As a final project for EE 491F: Multimedia Programming Foundations, our team decided to create a clone of the popular arcade game, Pacman.  In this game, you spawn as Pacman in a maze with 4 different ghosts: Blinky, Inky, Pinky, and Clyde.  The objective of the game is to collect all of the “dots” that are scattered throughout the entire maze while avoiding the ghosts.  If one of the ghosts touch Pacman, he’ll die, respawn, and one of his lives will be deducted from his total life count.  If Pacman’s total life count reaches 0, the game is over.  There are also special dots and fruits, when collected, will trigger special events. Every collectible in the game provides a different score value that is added to your total score upon collection.  Many retro arcade games are fairly simple in complexity, without too much game logic to implement and this reason served as our motivation for choosing to recreate Pacman.
