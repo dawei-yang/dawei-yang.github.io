@@ -10,7 +10,6 @@ labels:
   - C #
   - Unity
 summary:  Recreating game Pacman for in Unity in EE 491F.
-A responsive web application for travel planning that my team developed in ICS 415.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/pacman.png">
