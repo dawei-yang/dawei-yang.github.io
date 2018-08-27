@@ -11,7 +11,7 @@ labels:
   - Unity
 summary:  Recreating game Pacman for in Unity in EE 491F.
 ---
-<div class="ui small rounded images">
+<div class="ui medium rounded images">
   <img class="ui medium rounded image" src="../images/pacman.jpg">
 </div>
 
