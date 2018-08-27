@@ -7,7 +7,7 @@ permalink: projects/Pacman
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-15
 labels:
-  - C #
+  - C Sharp
   - Unity
 summary:  Recreating game Pacman for in Unity in EE 491F.
 ---
