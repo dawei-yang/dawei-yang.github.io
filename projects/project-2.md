@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: images/pacman_open.png
-title: Vacay
-
+title: Pacman
+permalink: projects/Pacman
 # All dates must be YYYY-MM-DD format!
 date: 2017-12-15
 labels:
