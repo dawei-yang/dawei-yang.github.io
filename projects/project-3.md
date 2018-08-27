@@ -1,61 +1,34 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/android_open.jpg
+title: Subscription Manager
+permalink: projects/Subscription Manager
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-12-12
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Jave
+  - XML
+  - SQLite
+  - Android Studio
+summary: An Android app that helps users to manage their subscriptions.
+
 ---
+<div class="ui medium rounded images">
+  <img class="ui medium rounded image" src="../images/android_app.jpg">
+</div>
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+Proposed, designed and developed an Android app that manages their subscriptions of users.
+The app lists subscriptions, synchronizes subscription payments with Google Calendar, and keeps track of total payments.
+Compared to the other apps in Play Store, it can add the subscriptions into Google Calendar
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
-To give you a flavor of the game, here is an excerpt from one run:
+The Main screen is shown in the left of Figure 1, while the right is the Add Subscription screen. 
+All the subscriptions are shown in a ListView, and the monthly payment is shown in the right corner. 
+Users can click the ADD SUBSCRIPTION button to go to the right screen. By clicking SAVE button, the subscription save to the SQLite as well as Google Calendar.
+Users can also modify their subscriptions by click the ListView, and the app will go to the Edit screen which is similar to the Add Subscription screen.  
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
+Source: <a href="https://github.com/dawei-yang/EE396_E13"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
