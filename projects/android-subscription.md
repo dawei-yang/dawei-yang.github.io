@@ -13,8 +13,8 @@ labels:
   - Android Studio
 summary: Deploying an Android app helps users to manage their subscriptions.
 ---
-<div class="ui large rounded images">
-  <img class="ui large rounded image" src="../images/android_app.jpg"; text-align:center;>
+<div class="ui large rounded images"; text-align:center;>
+  <img src="../images/android_app.jpg">
 </div>
 
 <div style="text-indent:2em">
