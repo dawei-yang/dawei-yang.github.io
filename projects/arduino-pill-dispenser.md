@@ -14,7 +14,7 @@ summary: My team developed an pill dispenser by using Arudino Uno.
 ---
 
 <div class="ui medium rounded images">
-  <img class="ui medium rounded image" src="../images/micromouse-robot.png">
+  <img class="ui medium rounded image" src="../images/arduino.jpg">
 
 </div>
 
