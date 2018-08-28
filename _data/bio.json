@@ -31,12 +31,14 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Raspberry Pi"
+        "Raspberry Pi",
+        "IBM Bluemix"
       ]
     },
     {
-      "name": "edge computing",
+      "name": "game development",
       "keywords": [
+        "Unity"
       ]
     },
     {
