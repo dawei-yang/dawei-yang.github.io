@@ -10,7 +10,7 @@ labels:
   - Pill dispenser
   - Arduino
   - C
-summary: My team developed an pill dispenser by using Arudino Uno.
+summary: Developed a pill dispenser by using Arudino Uno.
 ---
 
 <div class="ui medium rounded images">
