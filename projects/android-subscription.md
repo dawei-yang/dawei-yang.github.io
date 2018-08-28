@@ -13,9 +13,8 @@ labels:
   - Android Studio
 summary: Deploying an Android app helps users to manage their subscriptions.
 ---
-<div class="ui medium rounded images"; style="margin:0px auto; text-align:center;">
-  <img class="ui medium rounded image" img src="../images/android_app.jpg">
-</div>
+
+<img class="ui medium rounded image" img src="../images/android_app.jpg">
 
 <div style="text-indent:2em">
   In our EE396 project, my team proposed, designed and developed an Android app that manages their subscriptions of users.
