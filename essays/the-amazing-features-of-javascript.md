@@ -8,7 +8,6 @@ labels:
   - Javascript
 ---
 
-<img class="center floated image" src="../images/snake.jpg">
 
 <div style="text-indent:2em">
  
