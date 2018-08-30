@@ -11,8 +11,8 @@ labels:
   - Unity
 summary:  Recreating game Pacman with Unity and C#.
 ---
-<div class="ui medium center rounded images">
-  <img class="ui medium center rounded image" src="../images/pacman.jpg">
+<div class="medium center rounded">
+  <img class="medium center rounded" src="../images/pacman.jpg">
 </div>
 
 <div style="text-indent:2em">
