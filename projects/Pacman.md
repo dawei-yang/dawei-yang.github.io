@@ -11,7 +11,7 @@ labels:
   - Unity
 summary:  Recreating game Pacman with Unity and C#.
 ---
-<div class="medium center rounded">
+<div >
   <img class="medium center rounded" src="../images/pacman.jpg">
 </div>
 
@@ -19,6 +19,6 @@ summary:  Recreating game Pacman with Unity and C#.
   As a final project for EE 491F, our team decided to create a clone of the popular arcade game, Pacman. In this game, player spawns as Pacman in a maze with 4 different ghosts: Blinky, Inky, Pinky, and Clyde. The objective of the game is to collect all of the “dots” that are scattered throughout the entire maze while avoiding the ghosts. If one of the ghosts touches the Pacman, he’ll die, respawn, and one of his lives will be deducted from his total life count. If Pacman’s total life count reaches 0, the game is over. Special dots, when collected, will trigger special events such as freezes the ghosts. Every collectible in the game provides a different score value that is added to your total score upon collection.
 </div>
 <div style="text-indent:2em">
-   We made this game in Unity, and the codes were written in C#. My job was to implement the trigger event system and the scene manage system. When an event is triggered the system will call multiple methods, so one of the best way to handle trigger events is to use delegates and events. I also learned using the labeling API to change the states of game objects. The biggest challenge of this project was to merge team members' work together. 
+   We made this game in Unity, and the codes were written in C#. My job was to implement the trigger event system and the scene manage system. When an event is triggered the system will call multiple methods, so one of the best way to handle trigger events is to use delegates and events. I also learned using the labeling API to change the states of game objects. The biggest challenge of this project was to merge all works that were made by different people together. 
 </div>
 Source code: <a href="https://github.com/dawei-yang/Pacman"><i class="large github icon "></i>dawei-yang/Pacman</a>
