@@ -22,6 +22,6 @@ summary:  Recreating game Pacman with Unity and C#.
    We made this game in Unity, and the codes were written in C#. My job was to implement the trigger event system and the scene manage system. When an event is triggered the system will call multiple methods, so one of the best way to handle trigger events is to use delegates and events. I also learned using the labeling API to change the states of game objects. The biggest challenge of this project was to merge all works that were made by different people together. 
 </div>
 <div>
-  & #x000A;
+
 Source code: <a href="https://github.com/dawei-yang/Pacman"><i class="large github icon "></i>dawei-yang/Pacman</a>
 </div>
