@@ -13,7 +13,7 @@ labels:
   - Android Studio
 summary: Deploying an Android app helps users to manage their subscriptions.
 ---
-<img class="medium floated image" src="../images/android_app.jpg">
+
 
 
 <div style="text-indent:2em">
