@@ -13,8 +13,8 @@ labels:
 summary: Developed a pill dispenser by using Arudino Uno.
 ---
 
-<div class=" rounded images">
-  <img class="rounded image" src="../images/arduino.jpg">
+<div class=" large rounded images">
+  <img class=" large rounded image" src="../images/arduino.jpg">
 
 </div>
 <div style="text-indent:2em">
