@@ -21,7 +21,7 @@ summary:  Recreating game Pacman with Unity and C#.
 <div style="text-indent:2em">
    We made this game in Unity, and the codes were written in C#. My job was to implement the trigger event system and the scene manage system. When an event is triggered the system will call multiple methods. For example, when Pacman eats a blue dot, all the ghosts will be freezed and turn blue. Moreover, a method will be called to recover the state of ghosts after a certain time. One of the best way to handle trigger events is to use delegates and events. I also used the labeling API to change the tags of game objects, so we could control the game objects efficiently . The biggest challenge of this project was to merge all works that were made by different people together. We attached the event trigger system in a singleton object, main camera in this case, so that everyone can raise events thru the camera.
 </div>
-<footer>
-
+<div>
+<br/ br/>
 Source code: <a href="https://github.com/dawei-yang/Pacman"><i class="large github icon "></i>dawei-yang/Pacman</a>
-</footer>
+</div>
