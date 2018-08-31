@@ -14,7 +14,7 @@ labels:
 summary: Deploying an Android app helps users to manage their subscriptions.
 ---
 
-<img class=" size-medium center rounded image" img src="../images/android_app.jpg">
+<img class=" small rounded image" img src="../images/android_app.jpg">
 
 <div style="text-indent:2em">
   Hulu, Netflix, Chegg... more and more subscription we subscribe recently. It is necessary to keep track how much we pay every month. In our EE396 project, my team proposed, designed and developed an Android app that manages subscriptions of users.
