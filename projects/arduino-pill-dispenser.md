@@ -14,7 +14,7 @@ summary: Developed a pill dispenser by using Arudino Uno.
 ---
 
 <div class=" medium rounded images">
-  <img class=" medium rounded image" src="../images/arduino.jpg">
+  <img class=" medium image" width="500" height="500" src="../images/arduino.jpg">
 
 </div>
 <div style="text-indent:2em">
