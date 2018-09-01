@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: Javascript is a good programming language in software engineering
+title: Advantages of Javascript
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-26
+date: 2018-08-31
 labels:
   - Software Engineering
   - Javascript
