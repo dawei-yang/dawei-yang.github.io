@@ -8,15 +8,19 @@ labels:
   - Software Engineering
   - Javascript
 ---
-<img class="center floated image" src="../images/js.jpeg">
 
+<img class="center image" width = "400" length = "400" src="../images/js.jpeg">
+
+<h2>First Javascript  </h2>
 <div style="text-indent:2em">
 I am majoring Computer Engineering. Most of our courses base on C in order to help us understand the computer architecture.
 The syntax of C are more complicated than Javascript, and everything must be declared. I felt Javascript was not strict and 
-organized when I started learning it. However, the variables and objects in Javascript can be changed dynamically, which 
-gives us flexibility.
+organized when I wrote my first Javascript programme. After I have written several Javascript programmes I found some advantages of it.
 </div>
 <img class="right floated image" src="../images/c.png">
+
+
+<h2>Garbage collection  </h2>
 <div style="text-indent:2em">
 	The most significant difference between C and Javascript is the pointer. Pointer allows us access to memory directly 
   while we have to memage the pointer manually. For example, we use “malloc” to allocate memory in the heap and “free” 
@@ -28,16 +32,20 @@ gives us flexibility.
   hardware allows Javascript manage memory dynamically and automatically, so programmers can get rid of the unsafe
   factors and focus on develop software.
 </div>	
-  
+
+<h2>Heterogeneous collection  </h2>
 <div style="text-indent:2em">  
 The other advantage of Javascript is the heterogeneous collections. An array can store mixed data types. For example, 
 we can store a string and a integer in an array as a record of student’ s name and uh-id and put it in an array of 
 ICS314 students. However, in C, we need to define a struct of student with name and id number. Moreover, the size of
 array in C is fixed, so we may need to implement a linked list to store those structs dynamically.
 </div>	
-  
+
+<h2>Json as object</h2>
 <div style="text-indent:2em">  
 	Furthermore, Json is considered as an Object in Javascript. Json is significantly less verbose, so it helps 
   us to define an object clearly. On the other hand, it is easy to read a Json object as human.
 </div>
+
+<h2>Protocol oriented</h2>
 
