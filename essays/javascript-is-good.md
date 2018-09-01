@@ -15,7 +15,7 @@ labels:
 <div style="text-indent:2em">
 I am majoring Computer Engineering. Most of our courses base on C in order to help us understand the computer architecture.
 The syntax of C are more complicated than Javascript, and everything must be declared. I felt Javascript was not strict and 
-organized when I wrote my first Javascript programme. After I have written several Javascript programmes I found some advantages of it.
+unorganized when I wrote my first Javascript programme because the type of variable can be changed. After I have written several Javascript programmes I found that actually that was an advantages of Javascript.
 </div>
 <img class="rounded image" width = "250" length = "250" align="right" src="../images/c.png">
 
@@ -24,13 +24,12 @@ organized when I wrote my first Javascript programme. After I have written sever
 <div style="text-indent:2em">
 	The most significant difference between C and Javascript is the pointer. Pointer allows us access to memory directly 
   while we have to memage the pointer manually. For example, we use “malloc” to allocate memory in the heap and “free” 
-  to release the block once we don’t use it anymore. It is hard to manage in a big program, and the mismanaged pointer
-  could create memory leaks or security risk such as buffer overflow attack. We don’t need to worry about this in Javascript 
-  For example, we need “malloc” to allocate memory in the heap and “free” to release the block once we don’t it. We don’t
-  need to worry about this in Javascript since garbage collection will handle automatically. 
+  to release the block once we don’t use it anymore. It is hard to manage this in a big program, and the mismanaged pointer
+  could create memory leaks or security risk such as buffer overflow attack. We don’t
+  need to worry about this in Javascript since pointer is not allowed and garbage collection will handle this automatically. 
   I think that is one of the reason Javascript is better than C and C++ in software engineering. Development of
-  hardware allows Javascript manage memory dynamically and automatically, so programmers can get rid of the unsafe
-  factors and focus on develop software.
+  hardware technology allows Javascript manage memory dynamically and automatically, so programmers can get rid of the unsafe
+  factors and focus on developing software.
 </div>	
 
 <h2>Heterogeneous collection  </h2>
@@ -41,11 +40,11 @@ ICS314 students. However, in C, we need to define a struct of student with name 
 array in C is fixed, so we may need to implement a linked list to store those structs dynamically.
 </div>	
 
-<h2>Json as object</h2>
+<h2>Other advantages</h2>
 <div style="text-indent:2em">  
-	Furthermore, Json is considered as an Object in Javascript. Json is significantly less verbose, so it helps 
-  us to define an object clearly. On the other hand, it is easy to read a Json object as human.
+	JSON is considered as an Object in Javascript. Json is significantly less verbose, so it helps 
+  us to define an object clearly. In the WOD of object oriented, we implemented the menu of Jumba Juice, and I found it's easier to use. JSON can be recognized by most platform, so we don't need to worry about format transfer.
+	Moreover, Javascript is a protocol oriented language. Protocol Extension allows child classes use the methods in base class directly once those children satisfy the protocol. 
 </div>
 
-<h2>Protocol oriented</h2>
 
