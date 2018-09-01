@@ -7,7 +7,7 @@ date: 2018-08-26
 labels:
   - Software Engineering
   - Javascript
-
+---
 <img class="center floated image" src="../images/js.jpeg">
 
 <div style="text-indent:2em">
