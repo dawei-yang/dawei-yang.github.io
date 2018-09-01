@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Javascript
 
-<img class="center floated image" src="../images/snake.jpg">
+<img class="center floated image" src="../images/js.jpg">
 
 <div style="text-indent:2em">
 I am majoring Computer Engineering. Most of our courses base on C in order to help us understand the computer architecture.
@@ -16,7 +16,7 @@ The syntax of C are more complicated than Javascript, and everything must be dec
 organized when I started learning it. However, the variables and objects in Javascript can be changed dynamically, which 
 gives us flexibility.
 </div>
-
+<img class="right floated image" src="../images/c.png">
 <div style="text-indent:2em">
 	The most significant difference between C and Javascript is the pointer. Pointer allows us access to memory directly 
   while we have to memage the pointer manually. For example, we use “malloc” to allocate memory in the heap and “free” 
