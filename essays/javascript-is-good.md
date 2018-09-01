@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="floated image" width = "400" length = "400" align="middle" src="../images/js.jpeg">
+<img class="floated image" width = "400" length = "350" align="center" src="../images/js.jpeg">
 
 <h2>First Javascript  </h2>
 <div style="text-indent:2em">
