@@ -9,7 +9,7 @@ labels:
   - Javascript
 ---
 
-<img class="center image" width = "400" length = "400" src="../images/js.jpeg">
+<img class="floated image" width = "400" length = "400" align="middle" src="../images/js.jpeg">
 
 <h2>First Javascript  </h2>
 <div style="text-indent:2em">
@@ -17,7 +17,7 @@ I am majoring Computer Engineering. Most of our courses base on C in order to he
 The syntax of C are more complicated than Javascript, and everything must be declared. I felt Javascript was not strict and 
 organized when I wrote my first Javascript programme. After I have written several Javascript programmes I found some advantages of it.
 </div>
-<img class="right floated image" src="../images/c.png">
+<img class="rounded image" width = "300" length = "300" align="right" src="../images/c.png">
 
 
 <h2>Garbage collection  </h2>
