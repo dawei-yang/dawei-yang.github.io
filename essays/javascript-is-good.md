@@ -17,7 +17,7 @@ I am majoring Computer Engineering. Most of our courses base on C in order to he
 The syntax of C are more complicated than Javascript, and everything must be declared. I felt Javascript was not strict and 
 organized when I wrote my first Javascript programme. After I have written several Javascript programmes I found some advantages of it.
 </div>
-<img class="rounded image" width = "300" length = "300" align="right" src="../images/c.png">
+<img class="rounded image" width = "250" length = "250" align="right" src="../images/c.png">
 
 
 <h2>Garbage collection  </h2>
