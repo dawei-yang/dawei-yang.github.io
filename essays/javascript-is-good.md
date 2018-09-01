@@ -8,7 +8,7 @@ labels:
   - Software Engineering
   - Javascript
 
-<img class="center floated image" src="../images/js.jpg">
+<img class="center floated image" src="../images/js.jpeg">
 
 <div style="text-indent:2em">
 I am majoring Computer Engineering. Most of our courses base on C in order to help us understand the computer architecture.
