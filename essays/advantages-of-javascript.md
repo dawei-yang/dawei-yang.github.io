@@ -13,9 +13,9 @@ labels:
 
 <h2>First Javascript  </h2>
 <div style="text-indent:2em">
-I am majoring Computer Engineering. Most of our courses base on C in order to help us understand the computer architecture.
+I am majoring Computer Engineering, and most of our courses base on C in order to help us understand the computer architecture.
 The syntax of C are more complicated than Javascript, and everything must be declared. I thought Javascript was not strict and 
-unorganized when I wrote my first Javascript programme because the type of variable can be changed. After I have written several Javascript programmes I found that actually that was an advantages of Javascript.
+unorganized when I wrote my first Javascript programme because the type of a variable can be changed, and an array can contain different data types. After I have written several Javascript programmes I found those actually that were advantages of Javascript.
 </div>
 <img class="rounded image" width = "250" length = "250" align="right" src="../images/c.png">
 
