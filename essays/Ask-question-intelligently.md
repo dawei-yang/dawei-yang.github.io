@@ -30,19 +30,19 @@ should ask the whole group instead individual developers. Moreover, we should ma
 as possible and only show the codes that relat to our questions.  
 </div>
 <h2>Example of the "smart way"  </h2>
-<h3>C - strtok give back less data  </h3>
+<div>C - strtok give back less data  </div>
 <div style="text-indent:2em">
 First, he used a specific header with tag, so people could know what kind of question it is immediately. 
 Then he described his goal and showed his code along with a test case. I think he provided enough information
 to other people.  
 </div>
-<h3>Result  </h3>
+<div>Result  </div>
 <div style="text-indent:2em">
 He received the corrected answer very fast, and people would like to help him since he showed his efforts.
 </div>
 
 <h2>Example of the “not smart way” </h2>
-<h3>How to split array in Javascript </h3>
+<div>How to split array in Javascript </div>
 <div style="text-indent:2em">
 	He just asked how to split an array
 	<div style="text-indent:4em">"AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU "</div> 
@@ -53,7 +53,7 @@ He received the corrected answer very fast, and people would like to help him si
 Based on Raymond’s idea, the person didn’t prepare before he asked.
 First, I don’t think he even tried to solve the problem since he didn’t post any code there. I searched this problem in Google, and I found the solution with some example that someone wrote many years ago. If he did search, he should have solved that problem by himself. Furthermore, he asked a wrong question. In fact, he needed to split a string not an array. 
 </div>
-<h3>Result  </h3>
+<div>Result  </div>
 <div style="text-indent:2em">
 Some people commented that they didn’t want to help because he didn’t show his efforts. 
 </div>
