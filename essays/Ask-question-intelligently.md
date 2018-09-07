@@ -35,7 +35,7 @@ as possible and only show the codes that relat to our questions.
 First, he used a specific header with tag, so people could know what kind of question it is immediately. 
 Then he described his goal and showed his code along with a test case. I think he provided enough information
 to other people.  
-</div>
+</div><br/>
 <div>Result  </div>
 <div style="text-indent:2em">
 He received the corrected answer very fast, and people would like to help him since he showed his efforts.
@@ -51,7 +51,7 @@ He received the corrected answer very fast, and people would like to help him si
 <div style="text-indent:2em">
 Based on Raymond’s idea, the person didn’t prepare before he asked.
 First, I don’t think he even tried to solve the problem since he didn’t post any code there. I searched this problem in Google, and I found the solution with some example that someone wrote many years ago. If he did search, he should have solved that problem by himself. Furthermore, he asked a wrong question. In fact, he needed to split a string not an array. 
-</div>
+</div><br/>
 <div>Result  </div>
 <div style="text-indent:2em">
 Some people commented that they didn’t want to help because he didn’t show his efforts. 
