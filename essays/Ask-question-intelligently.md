@@ -44,8 +44,9 @@ He received the corrected answer very fast, and people would like to help him si
 <h2>Example of the “not smart way” </h2>
 <h3>How to split array in Javascript </h3>
 <div style="text-indent:2em">
-	He just asked how to split a string 
-	<div style="text-indent:4em">"AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU " into </div> 
+	He just asked how to split an array
+	<div style="text-indent:4em">"AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU "</div> 
+	<div style="text-indent:2em"> into </div> 
 	<div style="text-indent:4em">'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU'</div>
 </div>
 <div style="text-indent:2em">
@@ -58,6 +59,6 @@ Some people commented that they didn’t want to help because he didn’t show h
 </div>
 <h2>Conclusion </h2>
 <div style="text-indent:2em">
-	Compared two cases above, even though both of them received correct answers finally, the person who ask the "smart way" learned more during the process he prepared the question. In conclusion, we should try our best before we ask question.
+	Compared two cases above, even though both of them received correct answers finally, the person who ask the "smart way" learned more during the process he prepared the question. In conclusion, we should try our best to solve problems before we ask question. When we really need help, ask questions the "smart way".
 	
 </div>
