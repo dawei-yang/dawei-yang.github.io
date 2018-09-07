@@ -47,7 +47,7 @@ He received the corrected answer very fast, and people would like to help him si
 	He just asked how to split an array
 	<div style="text-indent:4em">"AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU "</div> 
 	<div style="text-indent:2em"> into </div> 
-	<div style="text-indent:4em">'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU'</div>
+	<div style="text-indent:4em">'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU'.</div>
 </div>
 <div style="text-indent:2em">
 Based on Raymond’s idea, the person didn’t prepare before he asked.
