@@ -44,8 +44,8 @@ He received the corrected answer very fast, and people would like to help him si
 <h2>Example of the “not smart way” </h2>
 <h3>How to split array in Javascript </h3>
 <div style="text-indent:2em">
- He just asked how to split "AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU " into 
- 'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU'
+	He just asked how to split a string <div>"AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU " into </div> 
+	<div>'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU'</div>
 </div>
 <div style="text-indent:2em">
 Based on Raymond’s idea, the person asked this question didn’t prepare before he asked.
