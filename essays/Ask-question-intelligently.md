@@ -19,12 +19,12 @@ answers or suggestions faster.
 </div>
 <h2>Strategy  </h2>
 <div style="text-indent:2em">
-	Raymond suggests some strategies that we can do in order to ask question in the smart way. First
+Raymond suggests some strategies that we can do in order to ask question in the smart way. First
   strategy is to do some search before ask. On the one hand, it proves to the people who can solve
   those problems that  we have tried our best and we are not lazy. On the other hand, what we learn
   from doing search gives more information to people who want to help.
-	Second, we should choose suitable forum. For example, I should ask a algorithm question in Stack
-  Overflow or GeedsforGeeks rather than Android Developer forum.   
+Second, we should choose suitable forum. For example, I should ask a algorithm question in Stack Overflow 
+or GeedsforGeeks rather than Android Developer forum.   
 Third, using meaningful and clear language to ask as many people as we can. Raymond suggests that we 
 should ask the whole group instead individual developers. Moreover, we should make our statement as clear
 as possible and only show the codes that are related to our questions.  
@@ -57,5 +57,6 @@ Some people didn’t help because he didn’t show his efforts.
 </div>
 <h2>Conclusion </h2>
 <div style="text-indent:2em">
+	Compared two cases above, even though both of them received correct answers finally, the person who ask the "smart way" learned more during the process he prepared the question. 
 	
 </div>
