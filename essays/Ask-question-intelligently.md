@@ -36,7 +36,7 @@ First, he used a specific header with tag, so people could know what kind of que
 Then he described his goal and showed his code along with a test case. I think he provided enough information
 to other people.  
 
-The result is that he received the corrected answer very fast, and people would like to help him since he showed his efforts.
+The result is that he received the correct answer very fast, and people would like to help him since he showed his efforts.
 </div>
 
 <h2>Example of the “not smart way” </h2>
