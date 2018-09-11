@@ -1,4 +1,4 @@
----
+﻿---
 layout: essay
 type: essay
 title: Advantages of Javascript
@@ -7,6 +7,7 @@ date: 2018-08-31
 labels:
   - Software Engineering
   - Javascript
+  - C
 ---
 
 <img class="floated image" width = "400" length = "350" align="center" src="../images/js.jpeg">
