@@ -26,25 +26,25 @@ benefits of coding standards and  the ways coding standards help us learn progra
 </div>
 <div style="text-indent:2em">	
   Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication because we can read the codes easily under the same standards. For instance, when we see a function or a method has a prefix "On" such as "OnCollisionEnter" or "onButtonClick", we may notice that an event has been triggered.  
-	Coding standards also help people maintain the codes.
-	  
 	
 </div>	
 
 <h2>Coding standards help us learn programming languages  </h2>
 <div style="text-indent:2em">  
 After my first week of using ESLint, I found an advantage of ESLint is that it forces us to think or programming in a
-efficient way. 
-
-	Both recursive functions work, but the second one receives an error from ESLint: “unnecessary ‘else’ after ‘return’ ”. 
-  Some people may think it just an extra else, and the algorithm and syntax are correct. However, I think it is not just
-  extra else. In a recursive function,  
+efficient way. There are two simple recursive functions shown below. Both of them are working, but the second one receives an error from ESLint: “unnecessary ‘else’ after ‘return’ ”. 
+  Some people may think it just an extra "else", and it is good as the algorithm and syntax are correct. However, I think it is not just
+  extra "else". A recursive function needs recursion terminations, or it doesn't stop. Usually, we put the terminations at the beginning of the function. The error message from ESLint emphasizes the importance of terminations, and this kind of message can help us improve our programming skills.  
 </div>	
-<img class="float image" width = "500" length = "400"  align="right" src="../images/CodingS.JPG">
+
+<div>
+<img class="rounded image" width = "500" length = "400"  align="right" src="../images/CodingS.JPG"></div>
 <h2>Conclusion</h2>
 <div style="text-indent:2em">  
-Writing code is similar to writing a book,	
+	Programming is similar to writing a book, while coding standards are similar to academic paper formatting such as MLA or IEEE.  	
+	
 </div>
+
 <h2>Reference</h2>
 <div style="text-indent:2em">  
 [1]	Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018].
