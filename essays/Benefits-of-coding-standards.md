@@ -38,7 +38,7 @@ efficient way. There are two simple recursive functions shown below. Both of the
 </div>	
 
 <div>
-<img class="rounded image" width = "500" length = "300"  align="right" src="../images/CodingS.JPG"></div>
+<img class="padding-left" width = "600" length = "400"  src="../images/CodingS.JPG"></div>
 
 <h2>Conclusion</h2>
 <div style="text-indent:2em">  
