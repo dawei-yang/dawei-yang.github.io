@@ -32,12 +32,12 @@ benefits of coding standards and  the ways coding standards help us learn progra
 <div style="text-indent:2em">  
 After my first week of using ESLint, I found an advantage of ESLint is that it forces us to think or programming in a
 efficient way. 
-<img class="rounded image" width = "400" length = "350"  align="right" src="../images/CodingS.JPG">
+
 	Both recursive functions work, but the second one receives an error from ESLint: “unnecessary ‘else’ after ‘return’ ”. 
   Some people may think it just an extra else, and the algorithm and syntax are correct. However, I think it is not just
   extra else. In a recursive function,  
 </div>	
-
+<img class="rounded image" width = "400" length = "350"  align="right" src="../images/CodingS.JPG">
 <h2>Conclusion</h2>
 <div style="text-indent:2em">  
 	
