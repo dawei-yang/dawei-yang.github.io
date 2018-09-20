@@ -21,10 +21,13 @@ benefits of coding standards and  the ways coding standards help us learn progra
 
 <h2>Benefits of coding standards  </h2>
 <div style="text-indent:2em">
-	First of all, coding standards help people understand other people’s codes. The coding standards don’t make sense
-  to compilers because compilers only care the syntax. In fact, coding standards are developed for human beings.
-  Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication.
+	First of all, coding standards help people understand other people’s codes. The coding standards don’t make any sense
+  to compilers because compilers only care the syntax. In fact, coding standards are developed for human beings. Following some standard, we can understand other people's codes or the codes we wrote long time ago. For example, I finished a programming assignment last semester. In order to save time, I just used x, y, z, i, j, k as variables. The program works, but if I want to reuse it again, I may need a while to understand what I had written. 
+</div>
+<div style="text-indent:2em">	
+  Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication because we can read the codes easily under the same standards. For instance, when we see a function or a method has a prefix "On" such as "OnCollisionEnter" or "onButtonClick", we may notice that an event has been triggered.  
 	Coding standards also help people maintain the codes.
+	  
 	
 </div>	
 
@@ -37,8 +40,13 @@ efficient way.
   Some people may think it just an extra else, and the algorithm and syntax are correct. However, I think it is not just
   extra else. In a recursive function,  
 </div>	
-<img class="rounded image" width = "400" length = "350"  align="right" src="../images/CodingS.JPG">
+<img class="float image" width = "500" length = "400"  align="right" src="../images/CodingS.JPG">
 <h2>Conclusion</h2>
 <div style="text-indent:2em">  
-	
+Writing code is similar to writing a book,	
+</div>
+<h2>Reference</h2>
+<div style="text-indent:2em">  
+[1]	Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018].
+[2]	Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
 </div>
