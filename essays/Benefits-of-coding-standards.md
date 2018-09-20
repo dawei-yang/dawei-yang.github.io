@@ -48,6 +48,8 @@ efficient way. There are two simple recursive functions shown below. Both of the
 
 <h2>Reference</h2>
 <div >  
-[1]	Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018].
+[1]	Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018]. 
+</div>
+<div>
 [2]	Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
 </div>
