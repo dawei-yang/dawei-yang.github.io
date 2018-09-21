@@ -38,8 +38,8 @@ It helps programmers to maintain their codes or read codes are written by other 
 
 <h2>Reference</h2>
 <div >  
-[1]&ensp Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018]. 
+[1]&ensp; Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018]. 
 </div>
 <div>
-[2]&ensp Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
+[2]<&ensp> Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
 </div>
