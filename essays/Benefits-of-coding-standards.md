@@ -15,7 +15,7 @@ A coding standard includes naming conventions, formatting and indentation, class
 It helps programmers to maintain their codes or read codes are written by other people easily. However, coding standards are not just a set of guidelines for programming language. It is also a tool that helps us learn programming language. In the rest of this essay, I will show the benefits of coding standards and  the ways that coding standards help us learn programming languages.
 </div>
 
-<h2>Benefits of coding standards  </h2>
+<h2>Coding standards make coding easier  </h2>
 <div style="text-indent:2em">
 	First of all, coding standards help people read codes which are written by other people or by ourselves. The coding standards don’t make sense to compilers because compilers only care the syntax. In fact, coding standards were developed for our convenience. For example, I wanted to reuse a part of code that I finished last semester, but I found that I used x, y, z as variables in that program without any comments in order to do it fast. They are syntactically correct, but their purposes are not evident. As a result, I need to spend some time to read the code again. If I used a readable rule to name the variable, I will save time. 
 </div>
