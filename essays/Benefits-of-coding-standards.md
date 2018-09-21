@@ -12,29 +12,20 @@ labels:
 <h2>Introduction  </h2>
 <div style="text-indent:2em">
 A coding standard includes naming conventions, formatting and indentation, classes and interfaces and so on [1].
-It helps programmers to maintain their code. However, coding standard is not just a set of guidelines for programming 
-language. It is also a tool that helps us learn programming language. In the rest of this essay, I will show the 
-benefits of coding standards and  the ways coding standards help us learn programming languages.
+It helps programmers to maintain their codes or read codes are written by other people easily. However, coding standard is not just a set of guidelines for programming language. It is also a tool that helps us learn programming language. In the rest of this essay, I will show the benefits of coding standards and  the ways that coding standards help us learn programming languages.
 </div>
-
-
 
 <h2>Benefits of coding standards  </h2>
 <div style="text-indent:2em">
-	First of all, coding standards help people understand other people’s codes. The coding standards don’t make any sense
-  to compilers because compilers only care the syntax. In fact, coding standards are developed for human beings. Following some standard, we can understand other people's codes or the codes we wrote long time ago. For example, I finished a programming assignment last semester. In order to save time, I just used x, y, z, i, j, k as variables. The program works, but if I want to reuse it again, I may need a while to understand what I had written. 
+	First of all, coding standards help people read codes which are written by other people or by ourselves. The coding standards don’t make any sense to compilers because compilers only care the syntax. In fact, coding standards were developed for our convenience. For example, I wanted to reuse a part of code that I finished last semester, but I found that I used x, y, z as variables in that program without any comment in order to do it fast. They are syntactically correct, but their purposes are not evident. As a result, I need to spend some time to read the code again. If I used a readable rule to name the variable, I will save time. 
 </div>
 <div style="text-indent:2em">	
-  Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication because we can read the codes easily under the same standards. For instance, when we see a function or a method has a prefix "On" such as "OnCollisionEnter" or "onButtonClick", we may notice that an event has been triggered.  
+  	Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication because we can read the codes easily under the same standards. For instance, when we see a method has a prefix "On" such as "OnCollisionEnter" or "onButtonClick", we may notice that the method relates to an event trigger.   
 	
 </div>	
-
 <h2>Coding standards help us learn programming languages  </h2>
 <div style="text-indent:2em">  
-After my first week of using ESLint, I found an advantage of ESLint is that it forces us to think or programming in a
-efficient way. There are two simple recursive functions shown below. Both of them are working, but the second one receives an error from ESLint: “unnecessary ‘else’ after ‘return’ ”. 
-  Some people may think it just an extra "else", and it is good as the algorithm and syntax are correct. However, I think it is not just
-  extra "else". A recursive function needs recursion terminations, or it doesn't stop. Usually, we put the terminations at the beginning of the function. The error message from ESLint emphasizes the importance of terminations, and this kind of message can help us improve our programming skills.  
+	After my first week of using ESLint, I found an advantage of ESLint is that it forces us to write codes in an efficient way. There are two simple recursive functions shown below. Both of them syntactically correct, but the second one receives an error from ESLint: “unnecessary ‘else’ after ‘return’ ”. Some people may argue that it's nothing serious but just an extra "else". However, I think it is a way to help us understand a recusive function. A recursive function needs recursion terminations, or it doesn't stop. Usually, we put the terminations at the beginning of the function. The error message from ESLint emphasizes the importance of terminations and structure of recusive function, so this kind of message can help us improve our programming skills.  
 </div>	
 
 <div>
@@ -42,14 +33,13 @@ efficient way. There are two simple recursive functions shown below. Both of the
 
 <h2>Conclusion</h2>
 <div style="text-indent:2em">  
-	Programming is similar to writing a book, while coding standards are similar to academic paper formatting such as MLA or IEEE.  	
-	
+	Programming is similar to writing a book, while coding standards are similar to academic paper formatting such as MLA or IEEE. 
 </div>
 
 <h2>Reference</h2>
 <div >  
-[1]		Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018]. 
+[1]<div style="text-indent:2em">Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018]. 
 </div>
 <div>
-[2]		Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
+[2]<style="text-indent:2em">Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
 </div>
