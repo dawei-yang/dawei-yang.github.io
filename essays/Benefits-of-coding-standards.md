@@ -20,7 +20,7 @@ It helps programmers to maintain their codes or read codes are written by other 
 	First of all, coding standards help people read codes which are written by other people or by ourselves. The coding standards don’t make sense to compilers because compilers only care the syntax. In fact, coding standards were developed for our convenience. For example, I wanted to reuse a part of code that I finished last semester, but I found that I used x, y, z as variables in that program without any comments in order to do it fast. They are syntactically correct, but their purposes are not evident. As a result, I need to spend some time to read the code again. If I used a readable rule to name the variable, I will save time. 
 </div>
 <div style="text-indent:2em">	
-  	Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication because we can read the codes easily under the same standards. For instance, when we see a method has a prefix "On" such as "OnCollisionEnter" or "onButtonClick", we may notice that the method relates to an event trigger. Moreover, under the same coding standard, the codes of team members can be integrated and maintained together.    
+  	Nowadays, computer programmes are very big, so teamworks are very important. Coding standards can minimize the communication because we can read the codes easily under the same standards [1]. For instance, when we see a method has a prefix "On" such as "OnCollisionEnter" or "onButtonClick", we may notice that the method relates to an event trigger. Moreover, under the same coding standard, the codes of team members can be integrated and maintained together.    
 	
 </div>	
 <h2>Coding standards help us learn programming languages  </h2>
@@ -40,6 +40,4 @@ It helps programmers to maintain their codes or read codes are written by other 
 <div >  
 [1]&ensp; Valid Computing, “Benefits of Coding Standards”, [Online document]. Available: https://www.valid-computing.com/benefits-of-coding-standards.html. [Accessed: September, 2018]. 
 </div>
-<div>
-[2]&ensp; Wikipedia, “Coding Conventions”, WikiMedia, [Online encyclopedia]. Available: https://en.wikipedia.org/wiki/Coding_conventions. [Accessed: September, 2018].	
-</div>
+
