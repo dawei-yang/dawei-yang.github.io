@@ -12,7 +12,7 @@ labels:
 
 <img class="floated image" width = "400" length = "350" align="center" src="../images/js.jpeg">
 
-<h2>First Javascript  </h2>
+<h2>first Javascript  </h2>
 <div style="text-indent:2em">
 I am majoring Computer Engineering. Most of our courses base on C in order to help us understand the computer architecture, so I am not comfortable Javascript at the beginning.
 The syntax of C are more complicated than Javascript, and everything must be declared. I thought Javascript was not strict and 
