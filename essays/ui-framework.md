@@ -16,7 +16,7 @@ labels:
 UI frameworks make the process of development faster and easier, but they have constraints. Therefore we need raw HTML and CSS.  In the rest of this essay, I will discuss pros and cons of UI frameworks.
 
 </div>
-<img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" style=" width:200">
+<img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" width="300" height="200">
 <h2>Advantages  </h2>
 <div style="text-indent:2em">
 		UI Frameworks speedup our approaches. In the past two weeks, I tried to use Semantic UI to recreate some websites such as Islandsnow and Dell.	 Compared to the experience before we were introduced to Semantic UI, I spent less time but create more complicated stuffs. It is also good for demonstrating our ideas and concepts just like brainstorming because we can only use half an hour to build a simply version by using UI frameworks.
