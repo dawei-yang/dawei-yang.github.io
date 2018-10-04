@@ -4,7 +4,7 @@ layout: essay
 type: essay
 title: Benefits of Coding Standards
 # All dates must be YYYY-MM-DD format!
-date: 2018-09-20
+date: 2018-10-03
 labels:
   - UI frameworks
   - HTML
