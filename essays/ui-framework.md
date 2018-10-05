@@ -16,7 +16,7 @@ labels:
 UI frameworks make the process of development faster and easier, but they have constraints. Therefore we need raw HTML and CSS.  In the rest of this essay, I will discuss pros and cons of UI frameworks.
 
 </div>
-<img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" width="500" height="400">
+<img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" width="600" height="400">
 <h2>Advantages  </h2>
 <div style="text-indent:2em">
 		UI Frameworks speedup our approaches. In the past two weeks, I used Semantic UI to recreate some websites such as Islandsnow and Dell.	 Compared to the experience before we were introduced to Semantic UI, I spent less time but created more complicated webs. It is also good for demonstrating our ideas and concepts just like brainstorming because we can only use half an hour to build a simply version by using UI frameworks. 
@@ -34,9 +34,8 @@ UI frameworks make the process of development faster and easier, but they have c
 
 <h2>Disadvantage  </h2>
 <div style="text-indent:2em">  
-	UI frameworks have many options for every elements, but users cannot get fully control of the scripts. For example, Semantic UI allows us use keywords ‘right’ or ‘left’ place an item, but we don’t know which part of right or left the item will be allocated until we run the script on Chrome. Moreover, if we want to place an element at a specific place, we still need raw CSS to control it. This is similar to C and Javascript. Javascript has garbage collection feature that manages the usage of memory, which is convenient to users. We know the useless memory will be reuse, but we don’t know how and when the interpreter does this. If we want to free a block of memory at specific time, C is the language we needed.
+	UI frameworks have many options for every elements, but users cannot get fully control of the scripts. For example, Semantic UI allows us use keywords ‘right’ or ‘left’ to place an item, but we don’t know which part of right or left the item will be allocated until we run the script on Chrome. Moreover, if we want to place an element at a specific place, we still need raw CSS to control it. This is similar to C and Javascript. Javascript has garbage collection feature that manages the usage of memory, which is convenient to users. We know the useless memory will be reused, but we don’t know how and when the interpreter does this. If we want to release a block of memory as soon as possible, C is the language we needed.
 </div>	
-
 
 
 <h2>Conclusion</h2>
