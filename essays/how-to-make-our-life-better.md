@@ -28,7 +28,7 @@ UI frameworks make the process of development faster and easier, but they have c
 </div>
 <img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" width="600" height="400">
 <div style="text-indent: 2em">
-	The third advantage is that UI frameworks help us reuse our previous works. From the two WODs of this week, I found that it was very easy to reuse the project that I build last week. I think one of the reason is that by using UI frameworks, we put all the contents into several containers such that it is easy and convenient to modify the parameters of a block(container). The other reason is that the script is very clear and simple, so I could find the place I needed to make a change very fast. 
+	The third advantage is that UI frameworks help us reuse our previous works. From the two WODs of this week, I found that it was very easy to reuse the project that I build last week. I think one of the reason was that by using UI frameworks, I put all the contents into several containers such that it was easy and convenient to modify the parameters of a block(container). The other reason was that the scripts were very clear and simple, so I could find the place I needed to make changes very fast. 
 
 </div>
 
@@ -40,6 +40,6 @@ UI frameworks make the process of development faster and easier, but they have c
 
 <h2>Conclusion</h2>
 <div style="text-indent:2em">  
-	Even though UI frameworks sometimes are limited and not flexible, it reduces many works. Our codes become shorter and more readable, and we can spend more time in developing our web pages rather than repeating the same process. While the UI frameworks can simplify the process of development, raw HTML and CSS are still useful since they provide the fully control of our scripts. I think we should use UI frameworks to approach our designs as the first step. Then, we can use raw HTML and CSS to adjust our designs.
+	Even though UI frameworks sometimes are limited and not flexible, they reduce many works. Our codes become shorter and more readable, and we can spend more time in developing our designs rather than repeating the same process. While the UI frameworks can simplify the process of development, raw HTML and CSS are still useful since they provide the fully control of our scripts. I think we should use UI frameworks to approach our designs as the first step. Then, we can use raw HTML and CSS to adjust our designs. This is how UI frameworks make our life better.
 </div>
 
