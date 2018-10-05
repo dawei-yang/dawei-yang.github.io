@@ -16,17 +16,17 @@ labels:
 UI frameworks make the process of development faster and easier, but they have constraints. Therefore we need raw HTML and CSS.  In the rest of this essay, I will discuss pros and cons of UI frameworks.
 
 </div>
-<img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" width="600" height="400">
+
 <h2>Advantages  </h2>
 <div style="text-indent:2em">
 		UI Frameworks speedup our approaches. In the past two weeks, I used Semantic UI to recreate some websites such as Islandsnow and Dell.	 Compared to the experience before we were introduced to Semantic UI, I spent less time but created more complicated webs. It is also good for demonstrating our ideas and concepts just like brainstorming because we can only use half an hour to build a simply version by using UI frameworks. 
 </div>
 
 <div style="text-indent:2em">
-	The second advantage is that our codes become much shorter after using UI frameworks. For example, we have to divide the screen and make four blocks if we want to create four equal menu items, and we only need to use the ‘four column grid’ class to approach this by using Semantic UI. From this example, we can also see that UI frameworks are consics and expressive. Instead of saying "there is an item; there is an item; there is an item; there is an item", saying "there are four items" is much easier and clearer because it is close to natural language.
+	The second advantage is that our codes become much shorter after using UI frameworks. For example, we have to divide the screen and make four blocks per row if we want to create a view as shown below, but we only need to use the ‘four column grid’ class to approach this by using Semantic UI. From this example, we can also see that UI frameworks are consics and expressive. Instead of saying "there is an item; there is an item; there is an item; there is an item", saying "there are four items" is much easier and clearer because it is close to natural language.
 
 </div>
-
+<img src="https://cdn-images-1.medium.com/max/2000/1*PIiTEjTw3x09F3hK3cg8SA.png" width="600" height="400">
 <div style="text-indent: 2em">
 	The third advantage is that UI frameworks help us reuse our previous works. From the two WODs of this week, I found that it was very easy to reuse the project that I build last week. I think one of the reason is that by using UI frameworks, we put all the contents into several containers such that it is easy and convenient to modify the parameters of a block(container). The other reason is that the script is very clear and simple, so I could find the place I needed to make a change very fast. 
 
