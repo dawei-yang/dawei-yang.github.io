@@ -1,7 +1,7 @@
 ﻿---
 layout: essay
 type: essay
-title: how-to-make-our-life-better
+title: How to make our life better
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-03
 labels:
@@ -12,7 +12,7 @@ labels:
 
 <h2>Introduction  </h2>
 <div style="text-indent:2em">
- How to make our life better? Use UI frameworks because they maky our front-end design eaiser. UI frameworks provide a huge number of build-in classes in order to simplify the works of developers. In my opinion, the relationship between raw HTML + CSS and UI frameworks  is similar to the relationship between programming languages and libraries. For example, if we need to sort an array, we can spend one hour to implement a quick sort class, or we can use a quick sort library which has been implemented and tested by other people. Obvious, most of us will choose the second option except those who are taking algorithm course. However, if the quick sort is a special version, we still need use base programming languages to modify the function. 
+ How to make our life better? Use UI frameworks because they maky our front-end design eaiser. Then, we have more time to do other things. UI frameworks provide a huge number of build-in classes in order to simplify the works of developers. In my opinion, the relationship between raw HTML + CSS and UI frameworks  is similar to the relationship between programming languages and libraries. For example, if we need to sort an array, we can spend one hour to implement a quick sort class, or we can use a quick sort library which has been implemented and tested by other people. Obvious, most of us will choose the second option except those who are taking algorithm course. However, if the quick sort is a special version, we still need use base programming languages to modify the function. 
 UI frameworks make the process of development faster and easier, but they have constraints. Therefore we need raw HTML and CSS.  In the rest of this essay, I will discuss pros and cons of UI frameworks.
 
 </div>
