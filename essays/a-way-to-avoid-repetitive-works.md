@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: A Way to Avoid Repeatable Works
+title: A Way to Avoid Repetitive Works
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-28
 labels:
@@ -12,18 +12,18 @@ labels:
 <h2>Introduction  </h2>
 <div style="text-indent:2em">
 Although we just learned about design pattern recently, I found that I had used many of those concepts in my previous projects and course works. Design pattern is a framework that helps us to manage and reuse codes and projects because many issues have common points.  
-In my opinion, it comes from our daily life, and we can find many examples about this. 
+In my opinion, it is wisdom that comes from our everyday life, and we can find many examples about this. 
 
 </div>
 <h2>Typography  </h2>
 <div style="text-indent:2em">
-In ancient times, people needed to record their daily life, artworks, and articles by handwriting. They must have many repeatable works that they wanted to get rid of.
-They invented typography, so they only need to make one seal or stamp mold for each. The ancient Chinese who invented movable type printing press technology were “lazier”. Each mold was reusable, and they only needed to assemble those molds before printing. They didn’t know what was the next book they needed to print, but they could make it as long as they had enough individual molds. If we apply the MVC design pattern in this case, a book is the model, the view is composing of molds, and human is the controller.
+In ancient times, people needed to record their everyday life and artworks by handwriting. They must have a huge amount of repetitive works that they wanted to get rid of.
+They invented typography, so they only need to make one seal or stamp mold for each page. The ancient Chinese who invented movable type printing press technology were “lazier”. Each mold was reusable, and they only needed to assemble those molds before printing. They didn’t know what was the next book they needed to print, but they could make it as long as they had enough individual molds. If we apply the MVC design pattern in this case, a book is the model, the view is composing of molds, and human is the controller.
 <img class="padding-left" width = "600" length = "400"  src="../images/type.jpg">
 </div>
 <h2>Advantages of Design Pattern  </h2>
 <div style="text-indent:2em">
-In my opinion, design pattern is the way software engineers use to avoid repeatable works. We may encounter many different kinds of problems in software design, but many of them are similar and can be solved by the same strategy. For example, when we recreated ‘digits’ in ICS 314, we adopt a general application template as a start. We could do this because all of the webs have the same features such as login, sign up, database, server, client and so on. 
+In my opinion, design pattern is the way software engineers use to avoid repetitive works by creating repeatable frameworks. We encounter many different kinds of problems in software design, but many of them are similar and can be solved by the same strategy. For example, when we recreated ‘digits’ in ICS 314, we adopt a general application template as a start. We could do this because all of the webs have the same features such as login, sign up, database, server, client and so on. 
 </div>
 
 <h2>Design Pattern in Game Design</h2>
