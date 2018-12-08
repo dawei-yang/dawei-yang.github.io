@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hoohui.PNG
+image: images/hoohui.png
 title: "hoohui"
 date: 2018-12-07
 labels:
