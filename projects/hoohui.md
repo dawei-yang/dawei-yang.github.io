@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/hoohui.PNG
 title: Company Connector
-permalink: projects/Subscription Manager
+permalink: projects/Company Connector
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-6
 labels:
