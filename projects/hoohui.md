@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hoohui.PNG
+image: images/android_app.jpg
 title: Company Connector
 permalink: projects/Company Connector
 # All dates must be YYYY-MM-DD format!
