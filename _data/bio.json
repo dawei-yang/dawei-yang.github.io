@@ -45,7 +45,8 @@
     {
       "name": "game development",
       "keywords": [
-        "Unity"
+        "Unity",
+        "C#"
       ]
     },
     {
@@ -66,7 +67,9 @@
         "Java",
         "Javascript",
         "Python",
-        "C#"
+        "C#",
+        "VHDL",
+        "Verilog"
       ]
     },
     {
@@ -98,7 +101,7 @@
       "website": "",
       "startDate": "2018-06-01",
       "endDate": "Present",
-      "summary": "FPGA design",
+      "summary": "Firmware develope",
       "highlights": [
         "Develop FPGA for particle detector",
         "VHDL"
