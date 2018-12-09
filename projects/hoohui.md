@@ -11,7 +11,7 @@ labels:
   - Meteor
 summary: Our team designed and implemented a web application "Hoohui" in React framewrok, and it connects students and companies with careers. Companies can post jobs, browse students' profiles and send notifications to students that they want to recruit. On the other hand, students can post their profiles, browse the notifications from companies, and reply to companies. We also deployed it in Galaxy.
 ---
-<img class="medium" width="500" height="500" src="../images/android_app.jpg">
+<img class="medium" width="500" height="500" src="../images/companyhome.PNG">
 <h2> Introduction</h2>
 <div style="text-indent:2em">
  Our goal is to create a convenient application that connect students to job opportunities. This application allows students or companies to create their own account. Companies can post new positions. Each position must have name, requirement, description. Company users can see all student profiles and send messege to those who they are interested in. Meanwhile, the students can create their profiles which contain their skills and interests. 
