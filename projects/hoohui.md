@@ -34,4 +34,5 @@ We used Git Hub to manage our project. There are three Milestones each contains 
 On of the most significant work I did was to implement the login system. Companies and students use the same login, and the system should determine the current user belongs to a company or a student and rount the correct page. In order to do this, I need to know how does Meteor manage the user accounts. There are several approaches. I decided to use the profile field in the user account. If a company sign up, a messege "company" will be added into that field, while a student will be marked as "student". When a user logs in successfully, the system looks at that field and redirects the user to the corresponding page.  
 </div>
 <br/>
-Source code: <a href="https://github.com/ho-ohui/hoohui"><i class="large github icon "></i>hoohui</a>
+Source code: <a href="https://github.com/ho-ohui/hoohui"><i class="large github icon"></i>hoohui</a>
+Home page: <a href="https://ho-ohui.github.io/"></i>hoohui</a>
