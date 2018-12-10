@@ -35,7 +35,7 @@ On of the most significant work I did was to implement the login system. Compani
 
 <h2> Conclusion </h2>
 <div style="text-indent:2em">
-The application has been deployed to Galaxy, but it needs some improvement. For example, the system should match students with companies based on their skills. In this project, our team applied all skills and knowledge that we had learned from ICS314 such as roject management, functional programming and design pattern. All of these helped us solve problems. Moreover, we all gained software development experience and learned how to work in a team project.
+The application is working and provides basic functionality, but it needs some improvement. For example, the system should match students with companies based on their skills. In this project, our team applied all skills and knowledge that we had learned from ICS314 such as roject management, functional programming and design pattern. All of these helped us solve problems. Moreover, we all gained software development experience and learned how to work in a team project.
 </div>
 
 <br/>
