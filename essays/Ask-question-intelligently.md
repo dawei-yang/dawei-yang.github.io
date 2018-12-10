@@ -30,11 +30,12 @@ should ask the whole group instead individual developers. Moreover, we should ma
 as possible and show the codes that relat to our questions. 
 </div>
 <h2>Example of the "smart way"  </h2>
-<div>"C - strtok give back less data"  </div>
+<div>"Distribution of ranges of numbers in Pandas"  </div>
+<img class="medium" width="700" height="500" src="../images/panda.PNG">
 <div style="text-indent:2em">
+	
 First, he used a specific header with tag, so people could know what kind of question it is immediately. 
-Then he described his goal and showed his code along with a test case. I think he provided enough information
-to other people.  
+He described the problem and the expected output, and he also showed his code along with the error messege he received. I think he provided enough information to other people.  
 
 The result is that he received the correct answer very fast, and people would like to help him since he showed his efforts.
 </div>
@@ -43,7 +44,7 @@ The result is that he received the correct answer very fast, and people would li
 <div>"How to split array in Javascript" </div>
 <div style="text-indent:2em">
 	He just asked how to split an array "AK, BK, CC, CS, DH, GR, KZ, MS, OD, YU "</div> 
-<div> into 'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU'.</div>
+<div> into 'AK', 'BK', 'CC', 'CS', 'DH', 'GR', 'KZ', 'MS', 'OD', 'YU' without any other information.</div>
 
 <div style="text-indent:2em">
 Based on Raymond’s idea, the person didn’t prepare before he asked.
