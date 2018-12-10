@@ -30,7 +30,6 @@ should ask the whole group instead individual developers. Moreover, we should ma
 as possible and show the codes that relat to our questions. 
 </div>
 <h2>Example of the "smart way"  </h2>
-<div>"Distribution of ranges of numbers in Pandas"  </div>
 <img class="medium" width="700" height="500" src="../images/panda.PNG">
 <div style="text-indent:2em">
 	
