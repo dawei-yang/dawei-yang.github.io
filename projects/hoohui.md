@@ -14,7 +14,7 @@ summary: Our team designed and implemented a web application "Hoohui" in React f
 <img class="medium" width="700" height="500" src="../images/companyhome.PNG">
 <h2> Goal</h2>
 <div style="text-indent:2em">
- Our goal was to create a convenient web application that connects students and companies with job opportunities.  We used HTML, CSS, and Javascript along with React framework to develop this application which allows students or companies to create their own account. Companies can post new positions. Each position must have name, requirement, description. Meanwhile, the students can create their profiles which contain their skills and interests. This app We also deployed it to Galaxy.
+ Our goal was to create a convenient web application that connects students and companies with job opportunities.  We used HTML, CSS, and Javascript along with React framework to develop this application which allows students or companies to create their own account. Companies can post new positions. Each position must have name, requirement, description. Meanwhile, the students can create their profiles which contain their skills and interests. We also deployed this application to Galaxy.
 </div>
 <div style="text-indent:2em">
     Company users are allowed to review all the students' profiles, and they are able to send messeges to whom they are interested in. Students can see the messeges that are attached in their own profiles and reply to the companies where they want to apply. Admin can see all the profiles and positions and delete those that are not appropriate.
