@@ -42,3 +42,16 @@ On of the most significant work I did was to implement the login system. Compani
 <br/>
 <div>Source code: <a href="https://github.com/ho-ohui/hoohui"><i class="large github icon"></i>hoohui</a></div>
 <div>Home page: <a href="https://ho-ohui.github.io/">hoohui</a></div>
+
+
+.column {
+  float: left;
+  width: 50%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
